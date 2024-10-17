@@ -4,10 +4,10 @@ Alzheimer's disease (AD) is a prevalent neurodegenerative disorder that poses si
 
 <img width="454" alt="image" src="https://github.com/user-attachments/assets/6a19e67c-4181-4aef-a15c-6bdf14a4c74f">
 
-**Figure 1:** Figure 1. The architecture of the autoencoder used in this study.
+**Figure 1:** The architecture of the autoencoder used in this study.
 
 
 <img width="279" alt="image" src="https://github.com/user-attachments/assets/2e1f4a0f-0d83-4135-845f-6805530a94ba">
 
-**Figure 2:** Figure 2. The architecture of the MLP.
+**Figure 2:** The architecture of the MLP.
 
